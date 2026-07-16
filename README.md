@@ -12,12 +12,13 @@ This repository contains an air quality dataset and an analysis notebook for exp
 ## Files + What you need
 
 - `Air_Quality_and_Health_Impacts_20260715.csv` - dataset with air quality and health impact data.
-- `work.ipynb` - Jupyter notebook for analyzing the dataset.
+- `WORK_IN_PROGRESS.ipynb` - Jupyter notebook for analyzing the dataset.
 - Make sure python, seaborn, pandas, and plotly in installed so the data runs smoothly.
 
-## To download these
+## To download these (if you have them skip this step)
 
-- `%pip install jupyterlab` (if you don't have it already if you do skip this step).
+- donwload them on your terminal
+- `%pip install jupyterlab`
 - `%pip install python`
 - `%pip install pandas` 
 - `%pip install seaborn`
@@ -25,7 +26,7 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 ## Usage
 
-1. Run Jupyter lab or Jupyter notebook on VS code or your terminal (depending on your device).
+1. Run Jupyter lab or Jupyter notebook on your terminal (depending on your device).
 2. Open `WORK_IN_PROGRESS.ipynb` in Jupyter Notebook or Jupyter Lab.
 4. Load `Air_Quality_and_Health_Impacts_20260715.csv` for analysis.
 5. Run the notebook cells to explore data cleaning, visualization, and insights.
@@ -44,4 +45,6 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 3. Find how many unique values are there in the columns (to write...)
 
-4. AI Disclosure: Generative AI (Google/ChatGPT) was utilized during data preprocessing to assist with writing Python code. Specifically, the AI provided a script to map NYC United Hospital Fund (UHF) geographic codes (Geo Join ID) to their respective NYC boroughs based on their leading digit. All AI-generated code was reviewed, debugged, and verified by the author before integration.
+## AI Disclosure
+
+Generative AI (Google/ChatGPT) was utilized during data preprocessing to assist with writing Python code. Specifically, the AI provided a script to map NYC United Hospital Fund (UHF) geographic codes (Geo Join ID) to their respective NYC boroughs based on their leading digit. All AI-generated code was reviewed, debugged, and verified by the author before integration.
