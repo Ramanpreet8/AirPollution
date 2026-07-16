@@ -13,7 +13,7 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 - `Air_Quality_and_Health_Impacts_20260715.csv` - dataset with air quality and health impact data.
 - `work.ipynb` - Jupyter notebook for analyzing the dataset.
-- Make sure python, seaborn, pandas, and plotly so the data runs smoothly
+- Make sure python, seaborn, pandas, and plotly in installed so the data runs smoothly.
 
 ## To download these
 
