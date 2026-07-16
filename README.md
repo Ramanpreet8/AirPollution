@@ -2,6 +2,13 @@
 
 This repository contains an air quality dataset and an analysis notebook for exploring health impacts.
 
+## To Obtain the data sets 
+
+- create a new folder
+- open `https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data` for air quality and health impact data
+- export the data into a csv file run it into the folder
+
+
 ## Files
 
 - `Air_Quality_and_Health_Impacts_20260715.csv` - dataset with air quality and health impact data.
