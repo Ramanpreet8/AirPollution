@@ -41,3 +41,4 @@ bugs, including:
   text field (e.g., "2017-2019" → 3-year average) since some readings are
   multi-year averages rather than single-year values.
 
+6. Created heatmap per borough
