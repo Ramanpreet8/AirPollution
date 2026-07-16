@@ -4,21 +4,31 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 ## To Obtain the data sets 
 
-- create a new folder
-- open `https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data` for air quality and health impact data
-- export the data into a csv file run it into the folder
+- Create a new folder
+- Open `https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data` for air quality and health impact data.
+- Export the data into a csv file open it into the folder you just created.
 
 
-## Files
+## Files + What you need
 
 - `Air_Quality_and_Health_Impacts_20260715.csv` - dataset with air quality and health impact data.
 - `work.ipynb` - Jupyter notebook for analyzing the dataset.
+- Make sure python, seaborn, pandas, and plotly so the data runs smoothly
+
+## To download these
+
+- `%pip install jupyterlab` (if you don't have it already if you do skip this step).
+- `%pip install python`
+- `%pip install pandas` 
+- `%pip install seaborn`
+- `%pip install plotly` (to be able to see the graphs).
 
 ## Usage
 
-1. Open `work.ipynb` in Jupyter Notebook or JupyterLab.
-2. Load `Air_Quality_and_Health_Impacts_20260715.csv` for analysis.
-3. Run the notebook cells to explore data cleaning, visualization, and insights.
+1. Run Jupyter lab or Jupyter notebook on VS code or your terminal (depending on your device).
+2. Open `WORK_IN_PROGRESS.ipynb` in Jupyter Notebook or Jupyter Lab.
+4. Load `Air_Quality_and_Health_Impacts_20260715.csv` for analysis.
+5. Run the notebook cells to explore data cleaning, visualization, and insights.
 
 ## Notes
 
@@ -28,7 +38,7 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 ## START OF THE PROJECT
 
-1. We are going to start with first dataset on Air Quality and Health impacts. https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data 
+1. We are going to start with first dataset on Air Quality and Health impacts. https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data
 
 2. The initial questions are:
 
