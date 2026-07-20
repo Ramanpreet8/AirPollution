@@ -5,9 +5,9 @@ This repository contains an air quality dataset and an analysis notebook for exp
 ## To Obtain the data sets (if the datasets doesn't work you know where to get them)
 
 - Create a new folder
-- Open 'https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data' for air quality and health impact data.
+- Open https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data for air quality and health impact data.
 - Export the data into a csv file open it into the folder you just created.
-- Open `https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/health-impacts-of-air-pollution/?id=2117#display=summary'
+- Open https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/health-impacts-of-air-pollution/?id=2117#display=summary
 - Scroll all the way down to download and click download this view 
 
 
