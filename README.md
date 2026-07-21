@@ -47,13 +47,19 @@ This repository contains an air quality dataset and an analysis notebook for exp
 
 ## START OF THE PROJECT
 
-1. We are going to start with first dataset on Air Quality and Health impacts. https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data
+1. We are going to start with first dataset on Air Quality and Health impacts.
 
 2. The initial questions are:
    - Which borough has the highest air quality?
    - Why some boroughs have better air quality than other ones?
-
+     
 3. Find how many unique values are there in the columns (to write...)
+   
+4. For the second dataset on Asthma emergency department visits due to PM2.5
+   
+5. The intial questions are:
+   - What borough has the most emergency department visits?
+   - What age group is the most impacted for asthma due to PM2.5 in 2005 - 2007?¶
 
 ## AI Disclosure
 
