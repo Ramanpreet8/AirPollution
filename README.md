@@ -14,9 +14,10 @@ This repository contains an air quality dataset and an analysis notebook for exp
 ## What you need
 
 - `Air_Quality_and_Health_Impacts_20260715.csv` - dataset with air quality and health impact data.
-- `WORK_IN_PROGRESS.ipynb` - Jupyter notebook for analyzing the dataset.
+- `WORK_IN_PROGRESS.ipynb` - the first dataset.
 - `NYC EH Data Portal - Asthma emergency department visits due to PM2.5 (filtered).csv` - dataset with Asthma emergency department visits due to PM2.5
-- `Dataset2.ipynb` - Jupyter notebook for analyzing the dataset. (the second dataset)
+- `Dataset2.ipynb` - the second dataset. 
+- `combined_data.ipynb` - shows both datasets in one file
 - Make sure python, seaborn, pandas, and plotly in installed so the data runs smoothly.
 
 ## To download these (if you have them skip this step)
@@ -32,12 +33,10 @@ This repository contains an air quality dataset and an analysis notebook for exp
 ## Usage
 
 1. Run Jupyter lab or Jupyter notebook on your terminal (depending on your device).
-2. Open `WORK_IN_PROGRESS.ipynb` in Jupyter Notebook or Jupyter Lab.
-3. Load `Air_Quality_and_Health_Impacts_20260715.csv` for analysis.
-   - Repeat these steps for the second dataset
-4. Open `Dataset2.ipynb` in Jupyter Notebook or Jupyter Lab.
-5. Load `NYC EH Data Portal - Asthma emergency department visits due to PM2.5 (filtered).csv` for analysis.
-6. Run the notebook cells to explore data cleaning, visualization, and insights.
+2. Open `combined_data.ipynb` in Jupyter Notebook or Jupyter Lab.
+3. Load `Air_Quality_and_Health_Impacts_20260715.csv` and `NYC EH Data Portal - Asthma emergency department visits due to PM2.5 (filtered).csv`for analysis.
+4. Run the notebook cells to explore data cleaning, visualization, and insights.
+
 
 ## Notes
 
